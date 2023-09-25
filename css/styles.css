@@ -3,3 +3,17 @@ Form and Nav button color is #C9CAFC
 Nav button color is #3F3A1C
 Header/Title color is #DCC789
  */
+
+ /* FONT
+     font-family: 'EB Garamond', serif;
+
+    font-family: 'Kanit', sans-serif; Headers
+
+    font-family: 'Libre Franklin', sans-serif; */
+
+
+/* General Styling */
+
+.header{
+    font-family: 'Kanit', sans-serif;
+}
