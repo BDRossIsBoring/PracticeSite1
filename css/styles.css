@@ -9,11 +9,28 @@ Header/Title color is #DCC789
 
     font-family: 'Kanit', sans-serif; Headers
 
-    font-family: 'Libre Franklin', sans-serif; */
+    font-family: 'Libre Franklin', sans-serif; is also the nav menu text*/
 
 
 /* General Styling */
 
-.header{
+header{
     font-family: 'Kanit', sans-serif;
+    color:#DCC789;
+}
+
+h1{
+    font-family: 'Kanit', sans-serif;
+    color:#DCC789;
+}
+
+p{
+    font-family: 'Libre Franklin', sans-serif;
+    background-color: #C9CAFC;
+    margin-left: 10% ;
+    margin-right:10%;
+}
+
+body{
+    background-color: #2F2F61;
 }
