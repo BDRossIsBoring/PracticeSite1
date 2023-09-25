@@ -14,7 +14,7 @@ is the one that decided the length.
 is done and the colors have been commented on the css page. The xd file was uploaded in the OtherContent  
 file
 ## To Do List 1.1
-- [ ] Design and Code out the pages. DO NOT GO INTO DETAILS...YET
+- [x] Design and Code out the pages. DO NOT GO INTO DETAILS...YET
 - [ ] Prepare the outline for the workout planner form.
 - [ ] Code the basics for the form on the planner page.
 - [ ] This is what will be on the Planner form
