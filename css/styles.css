@@ -34,3 +34,30 @@ p{
 body{
     background-color: #2F2F61;
 }
+
+.flex-container{
+    display:flex;
+    flex-direction: row;
+   
+    
+}
+
+.flex-item{
+    background-color: #C9CAFC;
+    padding: 5px;
+    margin: 5px;
+    font-family: 'Libre Franklin', sans-serif;
+
+}
+
+.flex-item a:link {
+    color:#3F3A1C;
+}
+
+.flex-item a:visited{
+    color:#836408;
+}
+
+.flex-item a:hover{
+    color:aqua;
+}
